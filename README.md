@@ -35,7 +35,7 @@ Before starting, ensure you have the following installed:
 ### **Installation & Setup**  
 1️⃣ Clone this repository:  
    ```sh
-   git clone [https://github.com/yourusername/modern-software-engineering.git](https://github.com/MajidHaghparast/MSE.git)  
+   git clone [https://github.com/MajidHaghparast/MSE.git](https://github.com/MajidHaghparast/MSE.git)  
    cd modern-software-engineering
    ```  
 2️⃣ Follow the instructions in the `lectures/` and `assignments/` folders to start learning.
