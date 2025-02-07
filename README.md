@@ -42,9 +42,8 @@ Before starting, ensure you have the following installed:
 
 ## 🔗 **Course Resources**  
 📌 Recommended Books:  
-- "Clean Code" by Robert C. Martin  
-- "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford  
-- "Software Engineering at Google" by Titus Winters, Tom Manshreck, Hyrum Wright  
+- Farley, D. (2021). Modern Software Engineering: Doing What Works to Build Better Software Faster. Addison-Wesley Professional.  
+- Winters, T., Manshreck, T., & Wright, H. (2020). Software engineering at google: Lessons learned from programming over time. O'Reilly Media.  
 
 📌 Useful Links:  
 - GitHub Guide: [https://guides.github.com/](https://guides.github.com/)  
