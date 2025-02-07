@@ -54,4 +54,4 @@ Before starting, ensure you have the following installed:
 Contributions are welcome! Please check the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on how to submit improvements, report issues, or suggest new content.  
 
 ## 📝 **License**  
-This course material is licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
+This course material is licensed under the Apache License. See [`LICENSE`](LICENSE) for more details.
