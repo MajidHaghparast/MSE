@@ -14,7 +14,7 @@ By the end of the course, students will:
 
 ## 📂 **Repository Structure**  
 ```
-📦 modern-software-engineering  
+📦 MSE  
  ┣ 📁 lectures         # Lecture slides & notes  
  ┣ 📁 assignments      # Course assignments  
  ┣ 📁 projects        # Student projects & examples  
