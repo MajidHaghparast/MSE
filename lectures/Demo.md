@@ -26,7 +26,7 @@ This guide provides step-by-step instructions for deploying containerized applic
   <img src="images/09-installation.svg" style="width: 75%; height: auto;"><br>
 </p>
 
-After installing Docker Desktop on your PC, you can verify the installation by running the following command in the terminal:
+- After installing Docker Desktop on your PC, you can verify the installation by running the following command in the terminal:
 ```bash
 docker --version
 ```
@@ -37,8 +37,8 @@ docker --version
 
 
 ## Step 1: Prepare Your Application
-Ensure your application is container-ready by creating a Dockerfile. 
-This file defines the environment and dependencies required for your application.
+- Ensure your application is container-ready by creating a Dockerfile. 
+- This file defines the environment and dependencies required for your application.
 
 ```bash
 # Navigate to your project directory
