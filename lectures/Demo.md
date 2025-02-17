@@ -14,10 +14,8 @@ This guide provides step-by-step instructions for deploying containerized applic
 - Sign up / Sign in
 - Download and install Docker Desktop from the same address.
 
-![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.svg)
-
-
 <p align="center">
+  <img src="images/01-Signup-Docker.svg" style="width: 60%; height: auto;"><br>
   <img src="images/02-docker-installer.svg" style="width: 40%; height: auto;"><br>
   <img src="images/03-installation.svg" style="width: 55%; height: auto;">
   <img src="images/04-installation.svg" style="width: 55%; height: auto;">
