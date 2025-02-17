@@ -97,7 +97,7 @@ Now, your applications are running inside Docker containers and accessible on po
 
 
 <p align="center">
-  <img src="images/11-docker-desktop-image-section.svg" style="width: 75%; height: auto;"><br>
+  <img src="images/11-docker-desktop-image-section.svg" style="width: 85%; height: auto;"><br>
 </p>
 
 
@@ -105,7 +105,7 @@ Now, your applications are running inside Docker containers and accessible on po
 
 
 <p align="center">
-  <img src="images/12-docker-desktop-container-section.svg" style="width: 75%; height: auto;"><br>
+  <img src="images/12-docker-desktop-container-section.svg" style="width: 785%; height: auto;"><br>
 </p>
 
 
