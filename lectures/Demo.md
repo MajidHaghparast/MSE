@@ -88,31 +88,12 @@ C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser
 ### JavaScript Application
 
 ```sh
-docker build -t my-node-app .
-docker run -p 5000:5000 my-node-app
+C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker build -t user2ser/hello-world-nodejs:0.0.1.RELEASE .
+C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker run -p 5001:5000 -d user2ser/hello-world-nodejs:0.0.1.RELEASE
+C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker push user2ser/hello-world-nodejs:0.0.1.RELEASE
 ```
 
-Now your applications are running inside Docker containers and accessible on ports `5000` and `5001`. 🚀
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Now your applications are running inside Docker containers and accessible on ports `5000` and `5001` on your local host. 🚀
 
 
 
