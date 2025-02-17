@@ -42,8 +42,8 @@ docker --version
 
 ## Step 1: Prepare Your Application
 
-Ensure your application is container-ready by creating a `Dockerfile`.  
-This file defines the environment and dependencies required for your application.
+- Ensure your application is container-ready by creating a `Dockerfile`.  
+- This file defines the environment and dependencies required for your application.
 
 We provide two example applications:
 
