@@ -1,6 +1,6 @@
 # Deploying Containerized Applications to the Cloud: Step by Step
 
-This guide provides step-by-step instructions for deploying containerized applications to the cloud using Docker, Kubernetes, and cloud services like AWS, Azure, or Google Cloud.
+This guide provides step-by-step instructions for deploying containerized applications to the cloud using Docker, Kubernetes, and Google Cloud Service.
 
 ## Prerequisites
 - Docker installed on your local machine
