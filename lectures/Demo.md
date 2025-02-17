@@ -18,18 +18,15 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 ![Docker-Desktop-Installer](images/02-docker-installer.svg)
 
-![Docker-Installation-03](images/03-installation.svg)
-
-![Docker-Installation-04](images/04-installation.svg)
-
-![Docker-Installation-05](images/05-installation.svg)
-
-![Docker-Installation-06](images/06-installation.svg)
-
-![Docker-Installation-07](images/07-installation.svg)
 
 <p align="center">
-  <img src="images/07-installation.svg" alt="Your Image" width="400" height="300">
+
+
+  <img src="images/03-installation.svg" alt="Your Image" width="600" height="300">
+  <img src="images/04-installation.svg" alt="Your Image" width="600" height="300">
+  <img src="images/05-installation.svg" alt="Your Image" width="600" height="300">
+  <img src="images/06-installation.svg" alt="Your Image" width="600" height="300">
+  <img src="images/07-installation.svg" alt="Your Image" width="600" height="300">
 </p>
 
 
