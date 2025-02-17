@@ -91,7 +91,7 @@ docker build -t my-node-app .
 docker run -p 5000:5000 my-node-app
 ```
 
-Now your applications are running inside Docker containers and accessible on port `5000`. 🚀
+Now your applications are running inside Docker containers and accessible on ports `5000` and `5001`. 🚀
 
 
 
@@ -111,26 +111,6 @@ Now your applications are running inside Docker containers and accessible on por
 
 
 
-
-
-## Step 1: Prepare Your Application
-- Ensure your application is container-ready by creating a Dockerfile. 
-- This file defines the environment and dependencies required for your application.
-- We have two applications examples:
--   A Python Application
--   and a Javascript Application
-
-```bash
-# Navigate to your project directory
-cd my-app
-
-# Build the Docker image
-docker build -t my-app:latest .
-
-# Verify the image
-docker images
-```
-![Docker Build Screenshot](images/docker_build.png)
 
 
 
