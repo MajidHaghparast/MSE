@@ -18,16 +18,15 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 ![Docker Desktop Installer](images/02-docker-installer.png)
 
-![Docker Installation](images/03-installation.png)
+![Docker Installation 03](images/03-installation.png)
 
-![Docker Installation](images/04-installation.png)
+![Docker Installation 04](images/04-installation.png)
 
-![Docker Installation](images/05-installation.png)
+![Docker Installation 05](images/05-installation.png)
 
-![Docker Installation](images/06-installation.png)
+![Docker Installation 06](images/06-installation.png)
 
-![Docker Installation](images/07-installation.png)
-
+![Docker Installation 07](images/07-installation.png)
 
 
 
