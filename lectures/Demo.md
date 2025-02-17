@@ -20,11 +20,11 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 
 <p align="center">
-  <img src="images/03-installation.svg" style="width: 75%; height: auto;">
-  <img src="images/04-installation.svg" style="width: 75%; height: auto;">
-  <img src="images/05-installation.svg" style="width: 75%; height: auto;">
-  <img src="images/06-installation.svg" style="width: 75%; height: auto;">
-  <img src="images/07-installation.svg" style="width: 75%; height: auto;">
+  <img src="images/03-installation.svg" style="width: 55%; height: auto;">
+  <img src="images/04-installation.svg" style="width: 55%; height: auto;">
+  <img src="images/05-installation.svg" style="width: 55%; height: auto;">
+  <img src="images/06-installation.svg" style="width: 55%; height: auto;">
+  <img src="images/07-installation.svg" style="width: 55%; height: auto;">
 </p>
 
 
