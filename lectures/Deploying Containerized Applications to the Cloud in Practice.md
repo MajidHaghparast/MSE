@@ -1,4 +1,4 @@
-# 🚀 **Deploying Containerized Applications to the Cloud in Practice**  
+# 🚀 **Steps for Deploying Containerized Applications to the Cloud in Practice**  
 
 ## **📌 Learning Objectives**  
 By the end of this chapter, students will:  
