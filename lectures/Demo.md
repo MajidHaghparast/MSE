@@ -32,7 +32,7 @@ docker --version
 ```
 
 <p align="center">
-  <img src="images/10-docker-terminal.svg" style="width: 75%; height: auto;"><br>
+  <img src="images/10-docker-terminal.svg" style="width: 50%; height: auto;"><br>
 </p>
 
 
