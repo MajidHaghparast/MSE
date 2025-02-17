@@ -16,10 +16,9 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 ![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.svg)
 
-![Docker-Desktop-Installer](images/02-docker-installer.svg)
-
 
 <p align="center">
+  <img src="images/02-docker-installer.svg" style="width: 95%; height: auto;">
   <img src="images/03-installation.svg" style="width: 55%; height: auto;">
   <img src="images/04-installation.svg" style="width: 55%; height: auto;">
   <img src="images/05-installation.svg" style="width: 55%; height: auto;">
