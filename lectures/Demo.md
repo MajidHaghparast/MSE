@@ -16,11 +16,21 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 ![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.png)
 
-![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.png)
+![Docker Desktop Installer](images/02-docker-installer.png)
 
-![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.png)
+![Docker Installation](images/03-installation.png)
 
-![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.png)
+![Docker Installation](images/04-installation.png)
+
+![Docker Installation](images/05-installation.png)
+
+![Docker Installation](images/06-installation.png)
+
+![Docker Installation](images/07-installation.png)
+
+
+
+
 
 
 ## Step 1: Build a Docker Image
