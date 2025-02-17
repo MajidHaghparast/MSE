@@ -36,6 +36,26 @@ docker --version
 </p>
 
 
+## Step 1: Prepare Your Application
+Ensure your application is container-ready by creating a Dockerfile. 
+This file defines the environment and dependencies required for your application.
+![image](https://github.com/user-attachments/assets/62d913fe-c4f7-49c9-bc99-4a911891788e)
+
+```bash
+# Navigate to your project directory
+cd my-app
+
+# Build the Docker image
+docker build -t my-app:latest .
+
+# Verify the image
+docker images
+```
+![Docker Build Screenshot](images/docker_build.png)
+
+
+
+
 ## Step 1: Build a Docker Image
 ```bash
 # Navigate to your project directory
