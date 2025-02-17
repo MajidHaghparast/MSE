@@ -75,7 +75,7 @@ CMD node index.js
 
 ## Step 3: Build Docker Images and Run Docker Containers 
 
-After creating the `Dockerfile`, you can build, test(run), and push the container using the following commands in the Terminal:
+After creating the `Dockerfile`, you can build Docker Images and test(run) the Docker Containers using the following commands in the Terminal:
 
 ### Python Application
 
@@ -92,6 +92,10 @@ C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker run -p 5001:5
 ```
 
 Now, your applications are running inside Docker containers and accessible on ports `5000` and `5001` on your local host. 🚀
+
+
+
+
 
 
 
