@@ -9,7 +9,7 @@ This guide provides step-by-step instructions for deploying containerized applic
 - Basic knowledge of containerization and cloud services
 
 
-## Step 1: Create an Account in docker.com / Download and install Docker Desktop
+## Step 0: Create an Account in docker.com / Download and install Docker Desktop
 - Go to https://www.docker.com/
 - Sign up / Sign in
 - Download and install Docker Desktop from the same address.
