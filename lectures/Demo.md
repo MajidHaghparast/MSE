@@ -9,7 +9,7 @@ This guide provides step-by-step instructions for deploying containerized applic
 - Basic knowledge of containerization and cloud services
 
 
-## Step 0: Create an Account in docker.com / Download and install Docker Desktop
+## Step 1: Create an Account in docker.com / Download and install Docker Desktop
 - Go to https://www.docker.com/
 - Sign up / Sign in
 - Download and install Docker Desktop from the same address.
@@ -40,7 +40,7 @@ docker --version
 
 
 
-## Step 1: Prepare Your Application
+## Step 2: Prepare Your Application
 
 - Ensure your application is container-ready by creating a `Dockerfile`.  
 - This file defines the environment and dependencies required for your application.
@@ -73,7 +73,7 @@ EXPOSE 5000
 CMD node index.js
 ```
 
-## Step 2: Build Docker Images and Run Docker Containers 
+## Step 3: Build Docker Images and Run Docker Containers 
 
 After creating the `Dockerfile`, you can build, test(run), and push the container using the following commands in the Terminal:
 
@@ -82,7 +82,6 @@ After creating the `Dockerfile`, you can build, test(run), and push the containe
 ```sh
 C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker build -t user2ser/hello-world-python:0.0.1.RELEASE .
 C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker run -p 5000:5000 -d user2ser/hello-world-python:0.0.1.RELEASE
-C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser/hello-world-python:0.0.1.RELEASE
 ```
 
 ### JavaScript Application
@@ -90,14 +89,13 @@ C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser
 ```sh
 C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker build -t user2ser/hello-world-nodejs:0.0.1.RELEASE .
 C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker run -p 5001:5000 -d user2ser/hello-world-nodejs:0.0.1.RELEASE
-C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker push user2ser/hello-world-nodejs:0.0.1.RELEASE
 ```
 
-Now your applications are running inside Docker containers and accessible on ports `5000` and `5001` on your local host. 🚀
+Now, your applications are running inside Docker containers and accessible on ports `5000` and `5001` on your local host. 🚀
 
 
 
-## Step 2: Push the Docker Images to a Container Registry (Docker Hub)
+## Step 4: Push the Docker Images to a Container Registry (Docker Hub)
 Choose a cloud registry (Docker Hub, AWS ECR, GCP Artifact Registry, Azure Container Registry).
 
 
