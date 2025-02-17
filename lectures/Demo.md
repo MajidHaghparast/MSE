@@ -28,6 +28,9 @@ This guide provides step-by-step instructions for deploying containerized applic
 
 ![Docker-Installation-07](images/07-installation.svg)
 
+<p align="center">
+  <img src="images/07-installation.svg" alt="Your Image" width="400" height="300">
+</p>
 
 
 
