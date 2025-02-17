@@ -73,7 +73,7 @@ EXPOSE 5000
 CMD node index.js
 ```
 
-## Step 2: Build Docker Images, Run the Docker Containers, and Push Docker Images to a Container Registry (Docker Hub) 
+## Step 2: Build Docker Images and Run Docker Containers 
 
 After creating the `Dockerfile`, you can build, test(run), and push the container using the following commands in the Terminal:
 
@@ -97,31 +97,24 @@ Now your applications are running inside Docker containers and accessible on por
 
 
 
-## Step 1: Build a Docker Image
-```bash
-# Navigate to your project directory
-cd my-app
-
-# Build the Docker image
-docker build -t my-app:latest .
-
-# Verify the image
-docker images
-```
-![Docker Build Screenshot](images/docker_build.png)
-
-## Step 2: Push the Image to a Container Registry
+## Step 2: Push the Docker Images to a Container Registry (Docker Hub)
 Choose a cloud registry (Docker Hub, AWS ECR, GCP Artifact Registry, Azure Container Registry).
 
-```bash
-# Log in to the container registry
-aws ecr get-login-password | docker login --username AWS --password-stdin <aws-account-id>.dkr.ecr.<region>.amazonaws.com
 
-docker tag my-app:latest <registry-url>/my-app:latest
+### Python Application
 
-docker push <registry-url>/my-app:latest
+```sh
+C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser/hello-world-python:0.0.1.RELEASE
 ```
-![Docker Push Screenshot](images/docker_push.png)
+
+### JavaScript Application
+
+```sh
+C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker push user2ser/hello-world-nodejs:0.0.1.RELEASE
+```
+
+Now, your applications are pushed to the docker hub. 🚀
+
 
 ## Step 3: Deploy to Kubernetes (Optional)
 If using Kubernetes, deploy the container using a YAML file.
