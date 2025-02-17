@@ -36,6 +36,84 @@ docker --version
 </p>
 
 
+
+
+
+# Deploying Your Application with Docker
+
+## Step 1: Prepare Your Application
+
+Ensure your application is container-ready by creating a `Dockerfile`.  
+This file defines the environment and dependencies required for your application.
+
+We provide two example applications:
+
+### 🐍 Python Application
+
+The following `Dockerfile` sets up a Python application using Alpine Linux:
+
+```dockerfile
+FROM python:alpine3.10
+WORKDIR /app
+COPY . /app
+RUN pip install -r requirements.txt
+EXPOSE 5000
+CMD python ./launch.py
+```
+
+### 🟨 JavaScript Application (Node.js)
+
+The following `Dockerfile` sets up a Node.js application using Alpine Linux:
+
+```dockerfile
+FROM node:8.16.1-alpine
+WORKDIR /app
+COPY . /app
+RUN npm install
+EXPOSE 5000
+CMD node index.js
+```
+
+## Step 2: Build and Run the Containers
+
+After creating the `Dockerfile`, you can build and run the container using the following commands.
+
+### Python Application
+
+```sh
+docker build -t my-python-app .
+docker run -p 5000:5000 my-python-app
+```
+
+### JavaScript Application
+
+```sh
+docker build -t my-node-app .
+docker run -p 5000:5000 my-node-app
+```
+
+Now your applications are running inside Docker containers and accessible on port `5000`. 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Step 1: Prepare Your Application
 - Ensure your application is container-ready by creating a Dockerfile. 
 - This file defines the environment and dependencies required for your application.
