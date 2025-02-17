@@ -93,7 +93,20 @@ C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker run -p 5001:5
 
 Now, your applications are running inside Docker containers and accessible on ports `5000` and `5001` on your local host. 🚀
 
+- If you check the Image section in your Docker Desktop, you will see:
 
+
+<p align="center">
+  <img src="images/11-docker-desktop-image-section.svg" style="width: 50%; height: auto;"><br>
+</p>
+
+
+- If you check the Container section in your Docker Desktop, you will see:
+
+
+<p align="center">
+  <img src="images/12-docker-desktop-container-section.svg" style="width: 50%; height: auto;"><br>
+</p>
 
 
 
