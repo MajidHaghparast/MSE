@@ -17,11 +17,13 @@ This guide provides step-by-step instructions for deploying containerized applic
 <p align="center">
   <img src="images/01-Signup-Docker.svg" style="width: 60%; height: auto;"><br>
   <img src="images/02-docker-installer.svg" style="width: 30%; height: auto;"><br>
-  <img src="images/03-installation.svg" style="width: 55%; height: auto;">
-  <img src="images/04-installation.svg" style="width: 55%; height: auto;">
-  <img src="images/05-installation.svg" style="width: 55%; height: auto;">
-  <img src="images/06-installation.svg" style="width: 55%; height: auto;">
-  <img src="images/07-installation.svg" style="width: 55%; height: auto;">
+  <img src="images/03-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/04-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/05-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/06-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/07-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/08-installation.svg" style="width: 55%; height: auto;"><br>
+  <img src="images/09-installation.svg" style="width: 55%; height: auto;"><br>
 </p>
 
 
