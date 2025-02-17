@@ -39,7 +39,6 @@ docker --version
 
 
 
-# Deploying Your Application with Docker
 
 ## Step 1: Prepare Your Application
 
