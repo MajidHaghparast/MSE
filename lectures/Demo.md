@@ -8,6 +8,14 @@ This guide provides step-by-step instructions for deploying containerized applic
 - CLI tools installed (AWS CLI, Azure CLI, GCloud CLI, kubectl, etc.)
 - Basic knowledge of containerization and cloud services
 
+
+## Step 1: Create an Account in docker.com / Download and install Docker Desktop
+- Go to https://www.docker.com/
+- Sign up / Sign in
+- Download and install Docker Desktop from the same address.
+
+![SignUp-SignIn-Install-Docker](images/01-Signup-Docker.png)
+
 ## Step 1: Build a Docker Image
 ```bash
 # Navigate to your project directory
