@@ -73,15 +73,16 @@ EXPOSE 5000
 CMD node index.js
 ```
 
-## Step 2: Build and Run the Containers
+## Step 2: Build Docker Images, Run the Docker Containers, and Push Docker Images to a Container Registry (Docker Hub) 
 
-After creating the `Dockerfile`, you can build and run the container using the following commands.
+After creating the `Dockerfile`, you can build, test(run), and push the container using the following commands in the Terminal:
 
 ### Python Application
 
 ```sh
-docker build -t my-python-app .
-docker run -p 5000:5000 my-python-app
+C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker build -t user2ser/hello-world-python:0.0.1.RELEASE .
+C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker run -p 5000:5000 -d user2ser/hello-world-python:0.0.1.RELEASE
+C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser/hello-world-python:0.0.1.RELEASE
 ```
 
 ### JavaScript Application
