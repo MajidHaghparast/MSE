@@ -95,8 +95,8 @@ Now, your applications are running inside Docker containers and accessible on po
 
 
 
-## Step 4: Push the Docker Images to a Container Registry (Docker Hub)
-Choose a cloud registry (Docker Hub, AWS ECR, GCP Artifact Registry, Azure Container Registry), and push the docker images to the Container Registry using the following commands in the Terminal.
+## Step 4: Push the Docker Images to the Docker Hub (Container Registry)
+Push the docker images to the Container Registry using the following commands in the Terminal.
 
 
 ### Python Application
