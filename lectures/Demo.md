@@ -26,6 +26,14 @@ This guide provides step-by-step instructions for deploying containerized applic
   <img src="images/09-installation.svg" style="width: 75%; height: auto;"><br>
 </p>
 
+After installing Docker Desktop on your PC, you can verify the installation by running the following command in the terminal:
+```bash
+docker --version
+```
+
+<p align="center">
+  <img src="images/10-docker-terminal.svg" style="width: 75%; height: auto;"><br>
+</p>
 
 
 ## Step 1: Build a Docker Image
