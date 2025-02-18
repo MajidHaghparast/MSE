@@ -158,17 +158,17 @@ Now you can follow the instructions to create Google Cloud Account:
 
 
 <p align="center">
-  <img src="images/18-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+  <img src="images/18-googlecloudaccount.svg" style="width: 40%; height: auto;"><br>
 </p>
 
 
 <p align="center">
-  <img src="images/19-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+  <img src="images/19-googlecloudaccount.svg" style="width: 40%; height: auto;"><br>
 </p>
 
 
 <p align="center">
-  <img src="images/20-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+  <img src="images/20-googlecloudaccount.svg" style="width: 40%; height: auto;"><br>
 </p>
 
 
