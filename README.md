@@ -40,10 +40,5 @@ By the end of the course, students will:
 - Farley, D. (2021). Modern Software Engineering: Doing What Works to Build Better Software Faster. Addison-Wesley Professional.  
 - Winters, T., Manshreck, T., & Wright, H. (2020). Software engineering at Google: Lessons learned from programming over time. O'Reilly Media.  
 
-📌 Useful Links:  
-- GitHub Guide: [https://guides.github.com/](https://guides.github.com/)  
-- Agile & Scrum: [https://www.scrum.org/](https://www.scrum.org/)  
-- DevOps & CI/CD: [https://www.devops.com/](https://www.devops.com/)  
-
 ## 📝 **License**  
 This course material is licensed under the Apache License. See [`LICENSE`](LICENSE) for more details.
