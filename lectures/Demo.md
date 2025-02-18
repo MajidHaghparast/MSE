@@ -187,7 +187,7 @@ Now search for GKE (Google Kubernetes Engine):
   <img src="images/22-enablegke.svg" style="width: 75%; height: auto;"><br>
 </p>
 
-You need to enable GKE (Google Kubernetes Engine):
+You need to enable Kubernetes Engine API:
 <p align="center">
   <img src="images/23-enablegke.svg" style="width: 75%; height: auto;"><br>
 </p>
