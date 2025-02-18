@@ -122,11 +122,26 @@ Push the docker images to the Container Registry using the following commands in
 C:\ModernSE-DevOps\projects\hello-world\hello-world-python> docker push user2ser/hello-world-python:0.0.1.RELEASE
 ```
 
+
+
+<p align="center">
+  <img src="images/15-dockerhub-python.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
 ### JavaScript Application
 
 ```sh
 C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker push user2ser/hello-world-nodejs:0.0.1.RELEASE
 ```
+
+
+<p align="center">
+  <img src="images/16-dockerhub-nodejs.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+
 
 Now, your applications are pushed to the docker hub. 🚀
 
