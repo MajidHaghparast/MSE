@@ -19,7 +19,6 @@ By the end of the course, students will:
  ┣ 📁 assignments      # Course assignments  
  ┣ 📁 projects        # Student projects & examples  
  ┣ 📁 resources       # Books, papers, and useful links  
- ┣ 📁 scripts         # Automation scripts and code samples  
  ┣ 📜 README.md       # Course overview  
  ┗ 📜 CONTRIBUTING.md  # Contribution guidelines  
 ```
