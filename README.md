@@ -7,10 +7,8 @@ This repository contains materials, assignments, and resources for the **Modern 
 ## 📌 **Course Objectives**  
 By the end of the course, students will:  
 ✔️ Understand fundamental software engineering principles  
-✔️ Learn Agile, DevOps, and CI/CD workflows  
-✔️ Work with modern tools such as Git, Docker, Kubernetes, and cloud platforms  
-✔️ Apply best coding practices, testing, and version control  
-✔️ Develop scalable and maintainable software  
+✔️ Work with modern tools such as Docker, Kubernetes, and cloud platforms  
+✔️ Apply best coding practices and version control  
 
 ## 📂 **Repository Structure**  
 ```
