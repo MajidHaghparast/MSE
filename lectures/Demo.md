@@ -273,7 +273,7 @@ kubectl expose deployment hello-world-python --type=LoadBalancer --port=5000
 ```
 
 <p align="center">
-  <img src="images/32-pythondeployment1.svg" style="width: 100%; height: auto;"><br>
+  <img src="images/32-pythondeployment1.svg" style="width: 50%; height: auto;"><br>
 </p>
 
 ### 🟨 JavaScript Application (Node.js)
