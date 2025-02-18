@@ -243,10 +243,10 @@ gcloud container clusters get-credentials mse-cluster-01 --region europe-north1 
 
 
 <p align="center">
-  <img src="images/30-connect-cluster.svg" style="width: 75%; height: auto;"><br>
+  <img src="images/30-connect-cluster.svg" style="width: 100%; height: auto;"><br>
 </p>
 
-- Verify connection by the following command:
+- Verify the connection by the following command:
 
 
 
