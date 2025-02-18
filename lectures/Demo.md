@@ -315,27 +315,11 @@ Find the external IP and access your applications.
 
 
 
-
-
-
-
-## Step 10: Verify Deployment
-- Check the logs:
-  ```bash
-  kubectl logs -f deployment/my-app
-  ```
-- Open the application in the browser:
-  ```bash
-  kubectl get services
-  ```
-
 ## Conclusion
-You have successfully deployed a containerized application to the cloud! 🎉
-
-For troubleshooting, refer to your cloud provider's documentation or Kubernetes docs.
+You have successfully deployed two different containerized applications to the cloud! 🎉
 
 ---
 **Next Steps:**
+- Deep dive into the Docker Commands
+- Deep dive into the Kubernetes Commands
 - Configure CI/CD pipelines
-- Implement monitoring and logging
-- Optimize container scaling
