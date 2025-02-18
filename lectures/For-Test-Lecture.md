@@ -307,7 +307,9 @@ kubectl expose deployment hello-world-nodejs --type=LoadBalancer --port=5001
 
 
 ## Results
-Find the external IP and access your applications.
+Find the external IP and access your applications:
+Python Application is here: [http://34.88.217.12:5000/](http://34.88.217.12:5000/)
+Javascript Application is here: [http://34.88.217.12:5000/](http://35.228.114.70:5001/)
 
 
 <p align="center">
