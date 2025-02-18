@@ -305,9 +305,7 @@ Find the external IP and access your applications.
 <p align="center">
   <img src="images/34-result1.svg" style="width: 100%; height: auto;"><br>
 </p>
-<p align="center">
-  <img src="images/34-result2.svg" style="width: 100%; height: auto;"><br>
-</p>
+
 <p align="center">
   <img src="images/34-result3.svg" style="width: 100%; height: auto;"><br>
 </p>
