@@ -2,7 +2,7 @@
 📌 *A course on contemporary software engineering practices and principles*  
 
 ## 📖 **Course Description**  
-This repository contains materials, assignments, and resources for the **Modern Software Engineering** course. The course covers best practices in software development, agile methodologies, DevOps, CI/CD, cloud computing, and modern software architectures.
+This repository contains materials, assignments, and resources for the **Modern Software Engineering** course. The course covers best practices in software development, DevOps, CI/CD, cloud computing, and modern software architectures.
 
 ## 📌 **Course Objectives**  
 By the end of the course, students will:  
