@@ -180,14 +180,14 @@ Google Cloud Console is like this:
 </p>
 
 
-You need to enable GKE (Google Kubernetes Engine):
+Now search for GKE (Google Kubernetes Engine):
 
 
 <p align="center">
   <img src="images/22-enablegke.svg" style="width: 50%; height: auto;"><br>
 </p>
 
-
+You need to enable GKE (Google Kubernetes Engine):
 <p align="center">
   <img src="images/23-enablegke.svg" style="width: 50%; height: auto;"><br>
 </p>
