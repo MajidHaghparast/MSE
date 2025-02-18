@@ -198,36 +198,38 @@ The Kubernetes Engine interface is like this:
   <img src="images/24-gke.svg" style="width: 75%; height: auto;"><br>
 </p>
 
-## Step 5: Deploy to the Cloud
-If using Kubernetes, deploy the container using a YAML file.
 
-```yaml
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: my-app
-spec:
-  replicas: 2
-  selector:
-    matchLabels:
-      app: my-app
-  template:
-    metadata:
-      labels:
-        app: my-app
-    spec:
-      containers:
-        - name: my-app
-          image: <registry-url>/my-app:latest
-          ports:
-            - containerPort: 80
-```
+## Step 6: Create Cluster
+- Cluster contains Control Plane and Worker Nodes
+- We run applications in the Kubernetes Cluster
+
+
+<p align="center">
+  <img src="images/25-cluster.svg" style="width: 75%; height: auto;"><br>
+</p>
+
+
+<p align="center">
+  <img src="images/26-cluster.svg" style="width: 75%; height: auto;"><br>
+</p>
+
+
+<p align="center">
+  <img src="images/27-cluster.svg" style="width: 75%; height: auto;"><br>
+</p>
+
+
+
+
+## Step 6: Deploy the containerized applications to the Cloud
+
+
 ```bash
 kubectl apply -f deployment.yaml
 ```
 ![Kubernetes Deploy Screenshot](images/kubernetes_deploy.png)
 
-## Step 4: Expose the Application
+## Step 7: Expose the Application
 ```bash
 kubectl expose deployment my-app --type=LoadBalancer --port=80
 ```
@@ -235,7 +237,7 @@ Find the external IP and access your application.
 
 ![Service Exposure Screenshot](images/service_exposure.png)
 
-## Step 5: Verify Deployment
+## Step 8: Verify Deployment
 - Check the logs:
   ```bash
   kubectl logs -f deployment/my-app
