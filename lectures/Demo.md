@@ -298,13 +298,26 @@ kubectl expose deployment hello-world-nodejs --type=LoadBalancer --port=5001
 
 
 
-## Step 9: Expose the Application
-```bash
-kubectl expose deployment my-app --type=LoadBalancer --port=80
-```
-Find the external IP and access your application.
+## Results
+Find the external IP and access your applications.
 
-![Service Exposure Screenshot](images/service_exposure.png)
+
+<p align="center">
+  <img src="images/34-result1.svg" style="width: 100%; height: auto;"><br>
+</p>
+<p align="center">
+  <img src="images/34-result2.svg" style="width: 100%; height: auto;"><br>
+</p>
+<p align="center">
+  <img src="images/34-result3.svg" style="width: 100%; height: auto;"><br>
+</p>
+
+
+
+
+
+
+
 
 ## Step 10: Verify Deployment
 - Check the logs:
