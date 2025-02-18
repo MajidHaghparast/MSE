@@ -1,3 +1,3 @@
 # **Assignments**  
-📌 *Here is a list of all assignemts*  
+📌 *Here I will add a list of all assignments*  
 
