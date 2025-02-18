@@ -246,8 +246,14 @@ gcloud container clusters get-credentials mse-cluster-01 --region europe-north1 
   <img src="images/30-connect-cluster.svg" style="width: 100%; height: auto;"><br>
 </p>
 
-- Verify the connection by the following command:
+- Verify the connection to the Kubernetes cluster by the following command:
+```bash
+Kubectl version
+```
 
+<p align="center">
+  <img src="images/31-connect-cluster.svg" style="width: 100%; height: auto;"><br>
+</p>
 
 
 
