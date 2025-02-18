@@ -3,10 +3,8 @@
 This guide provides step-by-step instructions for deploying containerized applications to the cloud using Docker, Kubernetes, GKE, and Google Cloud Services.
 
 ## Prerequisites
-- Docker installed on your local machine
-- Cloud provider account (AWS, Azure, GCP, etc.)
-- CLI tools installed (AWS CLI, Azure CLI, GCloud CLI, kubectl, etc.)
-- Basic knowledge of containerization and cloud services
+- Basic programming skills (e.g., Python or JavaScript)
+- Some familiarity with web development (HTML, and JavaScript).
 
 
 ## Step 1: Create an Account in docker.com / Download and install Docker Desktop
