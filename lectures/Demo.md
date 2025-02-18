@@ -192,6 +192,11 @@ You need to enable Kubernetes Engine API:
   <img src="images/23-enablegke.svg" style="width: 75%; height: auto;"><br>
 </p>
 
+The Kubernetes Engine interface is like this:
+
+<p align="center">
+  <img src="images/24-gke.svg" style="width: 75%; height: auto;"><br>
+</p>
 
 ## Step 5: Deploy to the Cloud
 If using Kubernetes, deploy the container using a YAML file.
