@@ -15,8 +15,8 @@ By the end of the course, students will:
 ## 📂 **Repository Structure**  
 ```
 📦 MSE  
+ ┣ 📁 assignments      # Course assignments
  ┣ 📁 lectures         # Lecture slides & notes  
- ┣ 📁 assignments      # Course assignments  
  ┣ 📁 projects        # Student projects & examples  
  ┣ 📁 resources       # Books, papers, and useful links  
  ┣ 📜 README.md       # Course overview  
