@@ -314,16 +314,17 @@ Find the external IP and access your applications:
   <img src="images/34-result1.svg" style="width: 100%; height: auto;"><br>
 </p>
 
-<p align="center">
-  <img src="images/34-result3.svg" style="width: 100%; height: auto;"><br>
-</p>
-
 
 - Python Application is deployed here: <a href="http://34.88.217.12:5000/" target="_blank">http://34.88.217.12:5000/</a>
 
 - Javascript Application is deployed here: <a href="http://35.228.114.70:5001/" target="_blank">http://35.228.114.70:5001/</a>
 
 <br>
+
+<p align="center">
+  <img src="images/34-result3.svg" style="width: 100%; height: auto;"><br>
+</p>
+
 
 
 ## Conclusion
