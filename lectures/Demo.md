@@ -146,7 +146,45 @@ C:\ModernSE-DevOps\projects\hello-world\hello-world-nodejs> docker push user2ser
 Now, your applications are pushed to the docker hub. 🚀
 
 
-## Step 3: Deploy to Kubernetes (Optional)
+
+## Step 5: Create Google Cloud Account
+Now you can follow the instructions to create Google Cloud Account:
+
+
+<p align="center">
+  <img src="images/17-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+
+<p align="center">
+  <img src="images/18-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+<p align="center">
+  <img src="images/19-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+<p align="center">
+  <img src="images/20-googlecloudaccount.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+Google Cloud Console is like this:
+
+
+<p align="center">
+  <img src="images/21-googlecloudconsole.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+
+
+
+
+
+## Step 5: Deploy to the Cloud
 If using Kubernetes, deploy the container using a YAML file.
 
 ```yaml
