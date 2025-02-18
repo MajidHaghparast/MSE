@@ -26,10 +26,9 @@ By the end of the course, students will:
 ## 🛠 **Getting Started**  
 ### **Prerequisites**  
 Before starting, ensure you have the following installed:  
-🔹 Git  
-🔹 Python / Java / JavaScript (depending on your projects)  
-🔹 Docker & Kubernetes (optional but recommended)  
-🔹 A GitHub account  
+🔹 Basic programming skills (e.g., Python or JavaScript)  
+🔹 Some familiarity with web development (HTML, and JavaScript)  
+
 
 ### **Installation & Setup**  
 1️⃣ Clone this repository:  
