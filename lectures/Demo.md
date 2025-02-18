@@ -108,7 +108,17 @@ Now, your applications are running inside Docker containers and accessible on po
   <img src="images/12-docker-desktop-container-section.svg" style="width: 85%; height: auto;"><br>
 </p>
 
+- If you click the links, you can see the websites are working:
 
+- Python Application 
+<p align="center">
+  <img src="images/docker5000.svg" style="width: 85%; height: auto;"><br>
+</p>
+
+- Javascript Application 
+<p align="center">
+  <img src="images/docker5001.svg" style="width: 85%; height: auto;"><br>
+</p>
 
 
 
