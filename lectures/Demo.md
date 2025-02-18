@@ -117,7 +117,7 @@ Now, your applications are running inside Docker containers and accessible on po
 
 - Javascript Application 
 <p align="center">
-  <img src="images/docker5001.svg" style="width: 85%; height: auto;"><br>
+  <img src="images/docker5001.svg" style="width: 95%; height: auto;"><br>
 </p>
 
 
