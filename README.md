@@ -15,7 +15,6 @@ By the end of the course, students will:
 📦 MSE  
  ┣ 📁 assignments      # Course assignments
  ┣ 📁 lectures         # Lecture slides & notes  
- ┣ 📁 projects        # Student projects & examples  
  ┣ 📁 resources       # Books, papers, and useful links  
  ┣ 📜 README.md       # Course overview  
  ```
