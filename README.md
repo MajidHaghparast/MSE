@@ -20,8 +20,7 @@ By the end of the course, students will:
  ┣ 📁 projects        # Student projects & examples  
  ┣ 📁 resources       # Books, papers, and useful links  
  ┣ 📜 README.md       # Course overview  
- ┗ 📜 CONTRIBUTING.md  # Contribution guidelines  
-```
+ ```
 
 ## 🛠 **Getting Started**  
 ### **Prerequisites**  
