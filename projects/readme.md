@@ -1,3 +1,3 @@
 # **Projects**  
-📌 *Here is the instructions for projects*  
+📌 *Here we will provide list of example projects for the course*  
 
