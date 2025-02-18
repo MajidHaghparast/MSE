@@ -311,8 +311,9 @@ Find the external IP and access your applications:
 
 - Python Application is deployed here: <a href="http://34.88.217.12:5000/" target="_blank">http://34.88.217.12:5000/</a>
 
-- Python Application is deployed here: <a href="http://34.88.217.12:5000/" target="_blank">http://34.88.217.12:5000/</a>
+- Javascript Application is deployed here: <a href="http://34.88.217.12:5000/" target="_blank">http://34.88.217.12:5000/</a>
 
+<br><br>
 
 <p align="center">
   <img src="images/34-result1.svg" style="width: 100%; height: auto;"><br>
