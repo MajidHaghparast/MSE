@@ -259,15 +259,46 @@ Kubectl version
 
 
 
-## Step 6: Deploy the containerized applications to the Cloud
+## Step 8: Deploy the containerized applications to the Cloud and expose services to the world
 
+We have two applications:
+
+### 🐍 Python Application
+
+Run the following commands in the Terminal:
 
 ```bash
-kubectl apply -f deployment.yaml
+kubectl create deployment hello-world-python --image=user2ser/hello-world-python:0.0.1.RELEASE
+kubectl expose deployment hello-world-python --type=LoadBalancer --port=5000
 ```
-![Kubernetes Deploy Screenshot](images/kubernetes_deploy.png)
 
-## Step 7: Expose the Application
+<p align="center">
+  <img src="images/32-pythondeployment1.svg" style="width: 100%; height: auto;"><br>
+</p>
+
+### 🟨 JavaScript Application (Node.js)
+
+Run this command in the Terminal:
+
+```bash
+kubectl create deployment hello-world-nodejs --image=user2ser/hello-world-nodejs:0.0.1.RELEASE
+kubectl expose deployment hello-world-nodejs --type=LoadBalancer --port=5001
+```
+
+
+<p align="center">
+  <img src="images/33-nodedeployment1.svg" style="width: 100%; height: auto;"><br>
+</p>
+
+
+
+
+
+
+
+
+
+## Step 9: Expose the Application
 ```bash
 kubectl expose deployment my-app --type=LoadBalancer --port=80
 ```
@@ -275,7 +306,7 @@ Find the external IP and access your application.
 
 ![Service Exposure Screenshot](images/service_exposure.png)
 
-## Step 8: Verify Deployment
+## Step 10: Verify Deployment
 - Check the logs:
   ```bash
   kubectl logs -f deployment/my-app
