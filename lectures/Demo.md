@@ -222,15 +222,29 @@ The Kubernetes Engine interface is like this:
 
 ## Step 7: Connect to the Kubernetes Cluster
 - In order to connect to the Kubernetes Cluster, click "Connect".
-- Then copy the Text
-- Now open the terminal
-- Paste the Text and Press Enter
-- Verify connection by the following command:
 
 
 <p align="center">
-  <img src="images/25-cluster.svg" style="width: 75%; height: auto;"><br>
+  <img src="images/28-connect-cluster.svg" style="width: 75%; height: auto;"><br>
 </p>
+
+- Then copy the Text
+
+
+<p align="center">
+  <img src="images/29-connect-cluster.svg" style="width: 75%; height: auto;"><br>
+</p>
+
+- Now open the terminal
+- Paste the Text and Press Enter
+
+
+<p align="center">
+  <img src="images/30-connect-cluster.svg" style="width: 75%; height: auto;"><br>
+</p>
+
+- Verify connection by the following command:
+
 
 
 
