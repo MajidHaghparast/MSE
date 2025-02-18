@@ -230,6 +230,9 @@ The Kubernetes Engine interface is like this:
 
 - Then copy the Text
 
+```bash
+gcloud container clusters get-credentials mse-cluster-01 --region europe-north1 --project artful-timing-450701-a3
+```
 
 <p align="center">
   <img src="images/29-connect-cluster.svg" style="width: 75%; height: auto;"><br>
